@@ -58,7 +58,7 @@ Example:
 
 ## 📸 Demo Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](sheets.png)
 
 ---
 
