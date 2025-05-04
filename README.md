@@ -48,7 +48,7 @@ Perfect for real estate agents, renters, or property managers who want to:
 - Add a **Time-driven trigger** for `updateVideoLinks` to run every 5 or 15 minutes
 
 ### 3. Format Your Sheet:
-| Column O         | Column P         |
+| Column M         | Column N         |
 |------------------|------------------|
 | `Video File Name`| `Video Link`     |
 
