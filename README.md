@@ -30,8 +30,8 @@ Perfect for real estate agents, renters, or property managers who want to:
 2. The user uploads a matching video file (e.g., `3601.mp4`) to a specific Google Drive folder
 3. A time-driven Apps Script runs every few minutes to:
    - Loop through Drive files
-   - Match filenames against entries in the `Video File Name` column (e.g., Column O)
-   - Paste the shareable link into the `Video Link` column (e.g., Column P)
+   - Match filenames against entries in the `Video File Name` column (e.g., Column M)
+   - Paste the shareable link into the `Video Link` column (e.g., Column N)
 
 ---
 
