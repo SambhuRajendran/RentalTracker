@@ -1,5 +1,5 @@
 function updateVideoLinks() {
-  const folderId = "1gD_8O8Mua19gB_htcn8HfnPrYP6IkZKE"; // Your Google Drive folder ID
+  const folderId = "YOURFOLDERID_IT"; // Your Google Drive folder ID
   const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Form Responses 1");
   const files = DriveApp.getFolderById(folderId).getFiles();
   const data = sheet.getDataRange().getValues();
