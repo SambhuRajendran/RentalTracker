@@ -53,3 +53,40 @@ Perfect for real estate agents, renters, or property managers who want to:
 | `Video File Name`| `Video Link`     |
 
 Example:
+
+---
+
+## 📸 Demo Screenshot
+
+![Screenshot](screenshot.png)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Google Apps Script
+- Google Drive & Sheets API integration
+- Time-based triggers
+- Workflow automation & optimization
+- Serverless cloud scripting
+
+---
+
+## 💡 Optional Enhancements
+
+- Email notifications when a video link is added
+- "Status" column with ✅
+- Automatic filename formatting
+- UI to trigger it on-demand
+
+---
+
+## 🧙 About the Author
+
+Built as a personal tool to streamline house-hunting. Now open-sourced to help anyone automate repetitive Drive-to-Sheet tasks using nothing but native Google tools.
+
+---
+
+## 📄 License
+
+MIT – use, fork, and make it your own!
