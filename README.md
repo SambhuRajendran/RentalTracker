@@ -39,7 +39,7 @@ Perfect for real estate agents, renters, or property managers who want to:
 
 ### 1. Clone this repo or copy the script into your Google Sheets:
 - Open `Extensions > Apps Script`
-- Paste the script from [`code.gs`](code.gs)
+- Paste the script from [`script.gs`](script.gs)
 - Update the folder ID to match your Drive folder
 
 ### 2. Set a Trigger:
